@@ -1,7 +1,9 @@
 ### Hey there, I'm Kay!
 ## I'm a memelord
 
-- 🔭 Just launched an application that's actually useful: [CursedGenshin.fun](http://cursedgenshin.fun)
+- ⚡ Just launched an application that's actually useful --> [CursedGenshin.fun](http://cursedgenshin.fun)
+- 😎 My pronouns are **it/its**
+- 🎧 Join my Discord server: [TeamXD](https://dsc.gg/kayxd)
 
 
 ### Languages I Utilize:
