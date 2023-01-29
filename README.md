@@ -2,7 +2,6 @@
 ## I'm a memelord
 
 - ⚡ Just launched an application that's actually useful --> [CursedGenshin.fun](http://cursedgenshin.fun) (sadly now discontinued)
-- 😎 My pronouns are **it/its**
 - 🎧 Join my Discord server: [TeamXD](https://dsc.gg/kayxd)
 - 🐤 Follow me on Twitter: [@KayXDTweets](https://twitter.com/KayXDDDDD)
 - 🏆 Subscribe to me on YouTube: [KayXD](https://www.youtube.com/channel/UCc0RN6SPAmQ9F-HOg3sQULg)
