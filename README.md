@@ -13,5 +13,5 @@
 <br />
 
 ## My GitHub Statistics
-![KayXDDD's GitHub stats](https://github-readme-stats.vercel.app/api?username=VariableKay&show_icons=true&theme=great-gatsby)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VariableKay&hide=TeX&layout=compact&bg_color=30,FFAE00,FFC039&title_color=000000&text_color=000000)
+![KayXDDD's GitHub stats](https://github-readme-stats.vercel.app/api?username=okay9ks&show_icons=true&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okay9ks&hide=TeX&layout=compact&bg_color=30,FFAE00,FFC039&title_color=000000&text_color=000000)
